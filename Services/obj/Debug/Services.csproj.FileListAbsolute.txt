@@ -1,0 +1,16 @@
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Services.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Services.pdb
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\obj\Debug\Services.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\obj\Debug\Services.pdb
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Services.dll.config
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\EntityFramework.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\EntityFramework.xml
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Kyle Johnson\source\repos\24HourProject\Services\obj\Debug\Services.csproj.CopyComplete

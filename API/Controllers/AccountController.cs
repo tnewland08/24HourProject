@@ -13,7 +13,7 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.OAuth;
-using API.Models;
+using API.Data;
 using API.Providers;
 using API.Results;
 
