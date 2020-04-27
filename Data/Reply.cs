@@ -4,11 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Models
+namespace Data
 {
-    public class Like
+    public class Reply : Comment
     {
-        public Post LikedPost { get; set; }
-        public User Liker { get; set; }
+        public virtual Comment ReplyComment { get; set; }
     }
 }
