@@ -84,12 +84,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Comment.cs" />
     <Compile Include="IdentityModels.cs" />
+    <Compile Include="Like.cs" />
+    <Compile Include="Migrations\202004272351105_fixed data layer.cs" />
+    <Compile Include="Migrations\202004272351105_fixed data layer.Designer.cs">
+      <DependentUpon>202004272351105_fixed data layer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004282331212_removed user.cs" />
+    <Compile Include="Migrations\202004282331212_removed user.Designer.cs">
+      <DependentUpon>202004282331212_removed user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Post.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reply.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\202004272351105_fixed data layer.resx">
+      <DependentUpon>202004272351105_fixed data layer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004282331212_removed user.resx">
+      <DependentUpon>202004282331212_removed user.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

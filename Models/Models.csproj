@@ -54,12 +54,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Comment.cs" />
-    <Compile Include="Like.cs" />
-    <Compile Include="Reply.cs" />
-    <Compile Include="User.cs" />
-    <Compile Include="Post.cs" />
+    <Compile Include="CommentModels\CommentCreateModel.cs" />
+    <Compile Include="CommentModels\CommentDeleteModel.cs" />
+    <Compile Include="CommentModels\CommentListItem.cs" />
+    <Compile Include="CommentModels\CommentUpdateModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PostModels\PostDeleteModel.cs" />
+    <Compile Include="PostModels\PostListItem.cs" />
+    <Compile Include="PostModels\PostUpdateModel.cs" />
+    <Compile Include="PostModels\PostCreateModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
