@@ -49,7 +49,6 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Dat
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\Owin.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.dll
-C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.Owin.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\EntityFramework.xml
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
@@ -62,7 +61,6 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Dat
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\Newtonsoft.Json.xml
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Net.Http.Formatting.xml
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.xml
-C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.Owin.xml
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.csprojAssemblyReference.cache
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.csproj.CopyComplete
@@ -70,3 +68,5 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Dat
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.pdb
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.Migrations.fixeddatalayer.resources
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Data\bin\Debug\System.Web.Http.Owin.xml
