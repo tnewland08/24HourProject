@@ -30,3 +30,9 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Ser
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\obj\Debug\Services.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\obj\Debug\Services.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Data.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Models.dll
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Data.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Data.dll.config
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Models.pdb
+C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\Services\bin\Debug\Models.dll.config

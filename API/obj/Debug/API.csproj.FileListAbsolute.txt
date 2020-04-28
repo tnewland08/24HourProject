@@ -191,7 +191,6 @@ C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\Data.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\EntityFramework.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\EntityFramework.SqlServer.dll
-C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\Fluent.Infrastructure.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\Microsoft.AspNet.Identity.Core.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\Microsoft.AspNet.Identity.EntityFramework.dll
 C:\Users\flyca\OneDrive\Documents\ELEVENFIFTY\DotNetFeb2020\C#\24HourProject\API\bin\Microsoft.AspNet.Identity.Owin.dll
