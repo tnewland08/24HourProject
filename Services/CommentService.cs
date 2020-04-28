@@ -49,7 +49,7 @@ namespace Services
                 _ctx.SaveChanges();
             }
         }
-        public void RemoveComent(CommentDeleteModel commentToDelete)
+        public void RemoveComment(CommentDeleteModel commentToDelete)
         {
             var entity = _ctx.Comments.Single(e => e.CommentId == commentToDelete.CommentId);
             _ctx.Comments.Remove(entity);

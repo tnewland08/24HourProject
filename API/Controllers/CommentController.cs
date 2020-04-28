@@ -11,6 +11,7 @@ using System.Web.Http;
 
 namespace API.Controllers
 {
+    [RoutePrefix("api/comments")]
     public class CommentController : ApiController
     {
         private CommentService CreateCommentService()
@@ -20,7 +21,7 @@ namespace API.Controllers
             return commentService;
         }
         [HttpPost]
-        //[Route(Name ="AddComment")]
+        [Route("addcomment")]
         public IHttpActionResult Post(CommentCreateModel commentToCreate)
         {
             if (!ModelState.IsValid)
@@ -30,7 +31,7 @@ namespace API.Controllers
             return Ok();
         }
         [HttpGet]
-        //[Route(Name ="GetPostComments")]
+        [Route("{postId:int}")]
         public IHttpActionResult Get(int postId)
         {
             var service = CreateCommentService();
@@ -38,7 +39,7 @@ namespace API.Controllers
             return Ok(comments);
         }
         [HttpPut]
-        //[Route(Name ="UpdateComment")]
+        [Route("update")]
         public IHttpActionResult Put(CommentUpdateModel commentToUpdate)
         {
             if (!ModelState.IsValid)
@@ -48,11 +49,11 @@ namespace API.Controllers
             return Ok();
         }
         [HttpDelete]
-        //[Route(Name ="RemoveComment")]
+        [Route("remove/{id:int}")]
         public IHttpActionResult Delete(CommentDeleteModel commentToDelete)
         {
             var service = CreateCommentService();
-            service.RemoveComent(commentToDelete);
+            service.RemoveComment(commentToDelete);
             return Ok();
         }
     }
