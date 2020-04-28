@@ -1,5 +1,5 @@
 ﻿using Data;
-using Models.PullModels;
+using Models.PostModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -33,7 +33,6 @@ namespace Services
             {
                 Title = e.Title,
                 Text = e.Text,
-                AuthorName = e.Author.Name
             }).ToList();
             return returnList;
         }

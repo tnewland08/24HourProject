@@ -13,9 +13,7 @@ namespace Data
         [Key]
         public int CommentId { get; set; }
         public string Text { get; set; }
-        [ForeignKey("Author")]
         public Guid UserId { get; set; }
-        public virtual User Author { get; set; }
         [ForeignKey("CommentPost")]
         public int PostId { get; set; }
         public virtual Post CommentPost { get; set; }

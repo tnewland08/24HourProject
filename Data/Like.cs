@@ -15,8 +15,6 @@ namespace Data
         [ForeignKey("LikedPost")]
         public int PostId { get; set; }
         public virtual Post LikedPost { get; set; }
-        [ForeignKey("Liker")]
         public Guid UserId { get; set; }
-        public virtual User Liker { get; set; }
     }
 }

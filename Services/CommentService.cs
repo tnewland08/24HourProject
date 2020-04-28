@@ -32,7 +32,6 @@ namespace Services
             var returnList = _ctx.Comments.Select(e => new CommentListItem
             {
                 CommentPostText = e.CommentPost.Text,
-                AuthorName = e.Author.Name,
                 Text = e.Text
             }).ToList();
             return returnList;
