@@ -1,0 +1,9 @@
+.vs/
+Data/bin/
+Data/obj/
+Models/bin/
+Models/obj/
+Services/bin/
+Services/obj/
+WebAPI/bin/
+WebAPI/obj/
