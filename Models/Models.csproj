@@ -59,6 +59,10 @@
     <Compile Include="CommentModels\CommentListItem.cs" />
     <Compile Include="CommentModels\CommentUpdateModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PullModels\PostDeleteModel.cs" />
+    <Compile Include="PullModels\PostListItem.cs" />
+    <Compile Include="PullModels\PostUpdateModel.cs" />
+    <Compile Include="PullModels\PostCreateModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
