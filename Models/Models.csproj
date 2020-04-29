@@ -58,15 +58,19 @@
     <Compile Include="CommentModels\CommentDeleteModel.cs" />
     <Compile Include="CommentModels\CommentListItem.cs" />
     <Compile Include="CommentModels\CommentUpdateModel.cs" />
+    <Compile Include="LikeCreateModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PostModels\PostDeleteModel.cs" />
     <Compile Include="PostModels\PostListItem.cs" />
     <Compile Include="PostModels\PostUpdateModel.cs" />
     <Compile Include="PostModels\PostCreateModel.cs" />
+    <Compile Include="ReplyModels\ReplyCreateModel.cs" />
+    <Compile Include="ReplyModels\ReplyListItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
