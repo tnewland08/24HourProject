@@ -29,7 +29,7 @@ namespace Services
         }
         public IEnumerable<CommentListItem> GetCommentsByPost(int postId)
         {
-            var returnList = _ctx.Comments.Select(e => new CommentListItem
+            var returnList = _ctx.Comments.Where(e => e.PostId == postId).Select(e => new CommentListItem
             {
                 CommentPostText = e.CommentPost.Text,
                 Text = e.Text
