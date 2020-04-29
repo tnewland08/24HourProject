@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+.vs/
+Data/bin/
+Data/obj/
+Models/bin/
+Models/obj/
+Services/bin/
+Services/obj/
+WebAPI/bin/
+WebAPI/obj/
+=======
 
 # Created by https://www.gitignore.io/api/visualstudio
 # Edit at https://www.gitignore.io/?templates=visualstudio
@@ -353,3 +364,4 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/visualstudio
+>>>>>>> ac5549a6f2b0252333039736911ea03a968d5910
