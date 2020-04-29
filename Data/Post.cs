@@ -14,8 +14,6 @@ namespace Data
         public int PostId { get; set; }
         public string Title { get; set; }
         public string Text { get; set; }
-        [ForeignKey("Author")]
         public Guid UserId { get; set; }
-        public virtual User Author { get; set; }
     }
 }
